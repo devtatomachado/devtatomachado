@@ -61,9 +61,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/devtatomachado/devtatomachado/output/snake.svg" alt="Snake animation" />
-
-###

@@ -26,7 +26,9 @@
 
 ###
 
-<p align="left">Olá! Sou Tácio Machado, estudante de Análise e Desenvolvimento de Sistemas. Como em me tornar um desenvolvedor Full Stack<br><br>- 💻 Atualmente estou estudando PostgreSQL e Java<br>- ⚡ No meu tempo livre toco guitarra, pedalo e leio alguns livros sobre criatividade</p>
+<p align="left">Estudante de Análise e Desenvolvimento de sistemas. Com experiência em gestão de pessoas e projetos, trago uma abordagem criativa e estratégica para a construção de interfaces modernas e intuitivas.
+Acredito que ser um bom desenvolvedor vai além do código. Por isso, além de especialização em HTML, CSS, JavaScript e React, foco na entrega de valor como um todo – levantando requisitos de forma eficiente, quebrando entregas em partes menores e garantindo qualidade até a produção. Minha combinação de visão estética e habilidades técnicas me permite transformar conceitos em produtos de alto impacto, sempre buscando inovação e eficiência para gerar resultados que agreguem ao negócio.
+Estou em constante evolução, aberto a desafios que me permitam crescer e contribuir de forma significativa.Estudante de Análise e Desenvolvimento de sistemas. Com experiência em gestão de pessoas e projetos, trago uma abordagem criativa e estratégica para a construção de interfaces modernas e intuitivas. Acredito que ser um bom desenvolvedor vai além do código. Por isso, além de especialização em HTML, CSS, JavaScript e React, foco na entrega de valor como um todo – levantando requisitos de forma eficiente, quebrando entregas em partes menores e garantindo qualidade até a produção. Minha combinação de visão estética e habilidades técnicas me permite transformar conceitos em produtos de alto impacto, sempre buscando inovação e eficiência para gerar resultados que agreguem ao negócio. Estou em constante evolução, aberto a desafios que me permitam crescer e contribuir de forma significativa.</p>
 
 ###
 

@@ -31,6 +31,7 @@ Acredito que ser um bom desenvolvedor vai além do código. Por isso, além de e
 Estou em constante evolução, aberto a desafios que me permitam crescer e contribuir de forma significativa.Estudante de Análise e Desenvolvimento de sistemas. Com experiência em gestão de pessoas e projetos, trago uma abordagem criativa e estratégica para a construção de interfaces modernas e intuitivas. Acredito que ser um bom desenvolvedor vai além do código. Por isso, além de especialização em HTML, CSS, JavaScript e React, foco na entrega de valor como um todo – levantando requisitos de forma eficiente, quebrando entregas em partes menores e garantindo qualidade até a produção. Minha combinação de visão estética e habilidades técnicas me permite transformar conceitos em produtos de alto impacto, sempre buscando inovação e eficiência para gerar resultados que agreguem ao negócio. Estou em constante evolução, aberto a desafios que me permitam crescer e contribuir de forma significativa.</p>
 
 ###
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b6bc5469-caca-4e52-add7-712eda38a2cc" />
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 

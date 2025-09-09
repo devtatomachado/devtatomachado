@@ -83,9 +83,5 @@ I am constantly evolving, learning new technologies and best practices to become
 </div>
 <br>
 <br>
-<div align="center">
 
-  ![Github Stats](https://greptile-stats.vercel.app/api/widget/devtatomachado/stats)
-  
-</div>
 
